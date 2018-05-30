@@ -3,8 +3,8 @@
 <br>
 # OnePrice ChangeLog
 <br>
-## 2018-05-30, Unnamed Version @Mickye
-<br>
+
+2018-05-30, Unnamed Version @Mickye
 ---
 
 #### 원프라이스(www,mobile)
