@@ -4,6 +4,24 @@
 # OnePrice ChangeLog
 <br>
 
+2018-07-16, Unnamed Version @Mickye
+---
+#### 원프라이스(www, mobile)
+ 1. 카테고리 필터 추가(구매수,가격순,상품평순)
+ 2. 원프라이스 추가상품 개선
+ 3. 온라인 최저가 무한스크롤
+ 4. 모바일 버전 할인율 제거
+
+#### 원프라이스 어드민(ADMIN)
+ 1. DM 발송페이지 개선 및 미리보기 추가
+ 2. 예치금 정산 부분 오류 개선 (금액 기준 -> 정산액 기준)
+ 3. Usopp export query fix
+ 4. 아이템 목록 검색필터 선택시 검색이 안되는 버그
+ 5. Goods 목록 Excel 내보내기 버그 개선
+
+#### 원프라이스 셀러(SELLER)
+ 1. 판매자게시판 공지제목 노출
+
 2018-07-03, Unnamed Version @Mickye
 ---
 #### 원프라이스(WWW, Mobile)
