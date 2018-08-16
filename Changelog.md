@@ -4,6 +4,19 @@
 # OnePrice ChangeLog
 <br>
 
+2018-08-16, Unnamed Version @Mickye
+---
+
+#### 원프라이스(www, mobile)
+1. 배경화면 색깔 맞춤(www)
+2. 프론트 버그 수정
+3. 카카오링크 v2
+
+#### 원프라이스 어드민(admin)
+1. CS 주문상태변경 개선작업
+2. DM 발송 템플릿 개선
+3. 엑셀 일괄등록 크롤링 검색명 업데이트
+
 2018-07-16, Unnamed Version @Mickye
 ---
 #### 원프라이스(www, mobile)
